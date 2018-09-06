@@ -13,3 +13,9 @@ areas of research:
 place of research
 	univ of Potsdam
 	Hasso Plattner Institut
+
+written using texmaker and latex
+http://www.xm1math.net/texmaker/
+https://www.latex-project.org/
+
+
