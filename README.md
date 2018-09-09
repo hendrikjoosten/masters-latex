@@ -24,4 +24,5 @@ tom kelly on innovation
 technology
 software
 AI
-
+robotics
+intersection of electronics and software
