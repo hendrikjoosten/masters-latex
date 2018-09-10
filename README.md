@@ -1,7 +1,7 @@
 # masters
 masters thesis writeup
 #authur
-Hendrik Joosten masters thesis
+Hendrik Joosten 
 #date
 init date 06.09.2018
 #areas of research:
