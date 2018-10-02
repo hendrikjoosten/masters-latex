@@ -26,3 +26,8 @@ software
 AI
 robotics
 intersection of electronics and software
+
+#serious considerations when doing a masters
+	Funding
+	employment
+	actual impact
