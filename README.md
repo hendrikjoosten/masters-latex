@@ -8,8 +8,12 @@ init date 06.09.2018
  - Artificial Intellegence
  - Machine Learning
  - Neuroscience
- - Bio inspired Technology
- - Imformation Theory
+ - Bio Inspired Technology
+ - Information Theory
+ - Models of Neural Systems
+ - Models of Higher Brain Function
+ - Acquisition and Analysis of Neural Data
+ - 
 
 	
 written using texmaker and latex
