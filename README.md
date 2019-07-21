@@ -13,7 +13,6 @@ init date 06.09.2018
  - Models of Neural Systems
  - Models of Higher Brain Function
  - Acquisition and Analysis of Neural Data
- - 
 
 	
 written using texmaker and latex
