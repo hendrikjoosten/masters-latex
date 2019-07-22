@@ -1,9 +1,13 @@
 # masters
 
+ - https://www.bccn-berlin.de/
+
 ## authur
 Hendrik Joosten 
+
 ## date
 init date 06.09.2018
+
 ## areas of research:
  - Artificial Intellegence
  - Machine Learning
@@ -16,5 +20,7 @@ init date 06.09.2018
 
 	
 written using texmaker and latex
-http://www.xm1math.net/texmaker/
-https://www.latex-project.org/
+ - http://www.xm1math.net/texmaker/
+ - https://www.latex-project.org/
+ 
+ 
